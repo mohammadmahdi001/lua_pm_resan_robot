@@ -47,8 +47,8 @@ installation
  cd ..
 
  #Launch BOT!
- git clone https://github.com/Mrhalix/lua-pmrsn
- cd lua-pmrsn
+ git clone https://github.com/mohammadmahdi001/lua_pm_resan_robot
+ cd lua_pm_resan_robot
  chmod +x ./launch.sh
  ./launch.sh
 then add bot to your realm and send
